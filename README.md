@@ -21,3 +21,7 @@ That's all about myself.
 ✅ PHP <br>
 ✅ HTML5 / CSS3 / Bootstrap <br>
 ✅ Photoshop / Illustrator <br>
+
+<br>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=HasanTSE&show_icons=true)
