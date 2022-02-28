@@ -1,4 +1,4 @@
-## Hi there, I am Md. Hasanul Hoque 👋  
+## Hi there, I am Md. Hasanul Hoque <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
   
 🔭 I am in learning.
