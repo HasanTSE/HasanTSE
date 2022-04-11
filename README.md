@@ -24,6 +24,7 @@ That's all about myself.
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ Java <br>
+✅ C++<br>
 ✅ C <br>
 ✅ JavaScript <br>
 ✅ PHP <br>
