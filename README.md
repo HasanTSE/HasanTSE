@@ -17,19 +17,16 @@
 
  
 
-I am Hasan from Bangladesh. I am self-taught programmer. Currently I am doing my undergraduate program in Computer Science Engineering. I ❤️ to code and solve problem and I am participate in programming contest, extempore speech contest and debate.
-I have also knowledge about Big data, Robotics and Machine Learning which I got by participant in workshop and also by google.
-In programming I know both two language C and Java and in website I have already complete website design scholarship course and successfully complete one project. I have also complete graphics design course from LEDP [A Bangladesh Government Project].
-That's all about myself.
+I am Hasan from Bangladesh. Currently I am doing my undergraduate program in Computer Science Engineering. I ❤️ to code and solve problem.
 
-## 👨‍💻 Skills & Experiance: 
+<!-- ## 👨‍💻 Skills & Experiance: 
 ✅ Java <br>
 ✅ C++<br>
 ✅ C <br>
 ✅ JavaScript <br>
 ✅ PHP <br>
 ✅ HTML5 / CSS3 / Bootstrap <br>
-✅ Photoshop / Illustrator <br>
+✅ Photoshop / Illustrator <br> -->
 
  
 ## Github Stats
