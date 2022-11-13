@@ -43,12 +43,7 @@ I am Hasan from Bangladesh. Currently I am doing my undergraduate program in Com
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HasanTSE&theme=radical&hide_border=true"/>
 </p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HasanTSE&theme=radical" alt="HasanTSE" /></p>
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HasanTSE&compact=True&theme=radical"/>
-</a>
+ 
 <br>
 
 
