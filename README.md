@@ -37,7 +37,7 @@ I am Hasan from Bangladesh. Currently I am doing my undergraduate program in Com
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=HasanTSE&show_icons=true&theme=radical&count_private=true">
   </a>
   <a href="https://github.com/HasanTSE/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HasanTSE&layout=compact&theme=radical&langs_count=6" />
+    <img align="center" src="https://github.com/HasanTSE/HasanTSE/blob/master/generated/languages.svg" />
   </a>
  </p>
 <p align="center">
