@@ -1,4 +1,7 @@
-## Hi there, I am Md. Hasanul Hoque <img src="https://github.com/HasanTSE/HasanTSE/blob/master/Assets/Hi.gif" width="29px"> 
+ <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Md.+Hasanul+Hoque" />
+</h3>
+
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=A+Passionate+Programmer" alt="Typing SVG" /></a></h3>
 
   
 🔭 I am in learning.
@@ -30,22 +33,28 @@ I am Hasan from Bangladesh. Currently I am doing my undergraduate program in Com
 ✅ Photoshop / Illustrator <br> -->
 
  
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+<details>
+  <summary>
+  	<strong><h3><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**</h3></strong>
+</summary>
 
-<p align="center">
-  <a href="https://github.com/HasanTSE">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=HasanTSE&show_icons=true&theme=radical&count_private=true">
-  </a>
- 
-![](https://github.com/HasanTSE/HasanTSE/blob/master/generated/languages.svg)
- </p>
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HasanTSE&theme=radical&hide_border=true"/>
-</p>
- 
-<br>
-
-
+  <br>
+  <table border="0">
+    <tr>
+      <td colspan="2" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HasanTSE&show_icons=true&theme=" alt="HasanTSE" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=HasanTSE&show_icons=true&theme=" alt="HasanTSE" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HasanTSE&show_icons=true&theme=" alt="HasanTSE" />
+      </td>
+    </tr>
+    </table>
+</details>
 
 
 
