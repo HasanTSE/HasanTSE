@@ -21,7 +21,7 @@
  
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-I am Hasan from Bangladesh. Currently I am doing my undergraduate program in Computer Science Engineering. I ❤️ to code and solve problem.
+I am Hasan from Bangladesh. I ❤️ to code and solve problem.
 
 <!-- ## 👨‍💻 Skills & Experiance: 
 ✅ Java <br>
